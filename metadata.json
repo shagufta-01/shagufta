@@ -1,0 +1,6 @@
+{
+  "name": "MADAR AL-TASIS",
+  "description": "Secure cloud-based business management application for Android and Windows with Owner-controlled staff access, OTP mobile authentication, real-time sync, and role-based permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
